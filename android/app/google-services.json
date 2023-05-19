@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "431135699336",
+    "project_id": "lastfirebasedatabase",
+    "storage_bucket": "lastfirebasedatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431135699336:android:a1be6b82d01845ae75ca3d",
+        "android_client_info": {
+          "package_name": "com.example.lastfirebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431135699336-mtg5ik4tfj6r0bd8bt4pvo4h43dd9d2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1LHhFnMJXzoyJrPf9frfL8yA0dA2wmYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431135699336-mtg5ik4tfj6r0bd8bt4pvo4h43dd9d2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
